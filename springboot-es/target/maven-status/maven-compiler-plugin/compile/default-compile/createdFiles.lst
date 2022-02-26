@@ -1,0 +1,12 @@
+cn\wn\repository\GoodsRepository.class
+cn\wn\model\R.class
+cn\wn\pojo\Goods$GoodsBuilder.class
+cn\wn\pojo\Goods.class
+cn\wn\repository\BookRepository.class
+cn\wn\controller\GoodsController.class
+cn\wn\ElasticApplication.class
+cn\wn\pojo\Book.class
+cn\wn\util\JsoupUtil.class
+cn\wn\util\JsoupUtil2.class
+cn\wn\mapper\BookMapper.class
+cn\wn\service\GoodsService.class
